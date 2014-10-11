@@ -10,6 +10,6 @@ The algorithm proved a little too time-consuming in the time available for the h
 
 For more on the branch-and-bound method, these were the resources I found most helpful:
 
-[Optimal Solution for TSP using Branch and Bound](http://lcm.csa.iisc.ernet.in/dsa/node187)
-[The Traveling Salesman Problem](www.csd.uoc.gr/~hy583/papers/ch11.pdf)
-[Branch and Bound Implementations for the Traveling Salesperson Problem](www.jot.fm/issues/issue_2003_03/column7.pdf) Note: contains Java implementation for the problem (if you're interested in seeing how you might solve the problem in another language).
+1) [Optimal Solution for TSP using Branch and Bound](http://lcm.csa.iisc.ernet.in/dsa/node187)
+2) [The Traveling Salesman Problem](www.csd.uoc.gr/~hy583/papers/ch11.pdf)
+3) [Branch and Bound Implementations for the Traveling Salesperson Problem](www.jot.fm/issues/issue_2003_03/column7.pdf) Note: contains Java implementation for the problem (if you're interested in seeing how you might solve the problem in another language).
