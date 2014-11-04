@@ -12,6 +12,7 @@ On the other end, checking every possible route from every point to every other 
 
 So, given that we had two days for our hackathon, how could I write a solution to the TSP?
 
+___
 ### The Solution
 
 The branch-and-bound solution to the TSP avoids the problem of greedy algorithms leading to suboptimal outcomes, while also operating slightly faster than a method that needs to check all of the routes between all of the points.
@@ -20,6 +21,8 @@ It works by creating a tree-like decision structure that considers **the shortes
 
 The algorithm proved a little too time-consuming in the time available for the hackathon, so we ended up using Google Maps API, which includes a solution for the Traveling Salesman Problem.
 
+___
+### Resources
 For more on the branch-and-bound method, these were the resources I found most helpful:
 
 1. [Optimal Solution for TSP using Branch and Bound](http://lcm.csa.iisc.ernet.in/dsa/node187)
